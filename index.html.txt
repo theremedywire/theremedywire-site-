@@ -1,0 +1,12 @@
+
+<p> </p>
+<div>
+<h1>📡 The Remedy
+ Wire</h1>
+<p>Street knowledge meets commercial law. This is your gateway to enforcement power, trust law, and public/private game decoded.</p>
+<h2>🚨 This Ain&rsquo;t Conspiracy &mdash; It&rsquo;s Contract</h2>
+<p>If you got a court case, a car note, or a custody war&hellip; this is where it flips back in your favor.</p>
+<div> <form action="mailto:theremedywire@proton.me" enctype="text/plain" method="POST"> <input name="email" required="" type="email" placeholder="Enter your email for The Game Drop" /> <br /><br /> <input type="submit" value="Send It" /> </form> </div>
+ <a href="https://spangle-gopher-472.notion.site/A-sovereign-network-of-law-light-and-living-trust-21e53bebbb3080aabb5ac11fae841039" target="_blank">📎 Tap to Access The Game Drop</a> <a href="https://calendly.com/thewizardof215" target="_blank">📅 Book a 1-on-1</a>
+<p>&copy; 2025 The Remedy Wire. All Rights Reserved.</p>
+ </div>
